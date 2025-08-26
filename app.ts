@@ -25,7 +25,9 @@ function getUser(id: number, users: User[]): User | undefined {
  para crear una nueva branch
  git checkout -b branchname
  
+ crear la branch en remoto
+ git push --set-upstream origin branchname
  */
-console.log("Hola USA");
+console.log("Hola TypeScript");
 
  
