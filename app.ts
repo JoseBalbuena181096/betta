@@ -23,7 +23,7 @@ function getUser(id: number, users: User[]): User | undefined {
  si quiero registrar estos cambios guardar una foto de este proyecto, una version en el historial del proyecto se realiza un git commit
  
  para crear una nueva branch
-git push -u origin main
+ git checkout -b branchname
  
  */
 console.log("Hola TypeScript");
