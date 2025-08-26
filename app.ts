@@ -21,6 +21,10 @@ function getUser(id: number, users: User[]): User | undefined {
  STAGING AREA
  Es la parte intermedia entre tener los ficheros pero aun no hecho nada con ellos, en una carpeta temporal
  si quiero registrar estos cambios guardar una foto de este proyecto, una version en el historial del proyecto se realiza un git commit
+ 
+ para crear una nueva branch
+git push -u origin main
+ 
  */
 console.log("Hola TypeScript");
 
