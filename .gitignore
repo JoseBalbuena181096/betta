@@ -12,6 +12,8 @@ build/
 .env.test.local
 .env.production.local
 
+supersecreto.env
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
